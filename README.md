@@ -1,2 +1,2 @@
 # PBK
-Pembuatan aplikasi
+Pembuatan aplikasi belajar Surah Al-Quran
